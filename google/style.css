@@ -1,0 +1,41 @@
+.logo{
+    text-align: center;
+}
+.src{
+    text-align: center;
+    background-color: rgb(239, 239, 239);
+    width: 100%;
+    margin-bottom: 2px;
+}
+.second{
+    float: left;
+    background-color: aquamarine;
+    width: 40%;
+    height: 75px;
+    text-align: center;
+    margin-right: 2px;
+   
+}
+.third{
+    float: left;
+    background-color: aquamarine;
+    width: 19%;
+    height: auto;
+    font-size: small;
+    height: 75px;
+    text-align: center;
+}
+.fourth{
+    text-align: center;
+    font-size: small;
+    background-color: aquamarine;
+    margin: 2px;
+    
+}
+ul{
+    list-style-type: none;
+}
+footer{
+    text-align: center;
+    font-size: small;
+}
